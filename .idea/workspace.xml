@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="31c0ff72-e1f3-4380-aafc-67423f1b11c2" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/codeforces/div2_358A.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/div2_358A.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/codeforces/div2_359A.class" afterPath="$PROJECT_DIR$/out/production/codeforces/div2_359A.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/div2_360A.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/codeforces/div2_358A.class" afterPath="$PROJECT_DIR$/out/production/codeforces/div2_358A.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/div2_359A.java" afterPath="$PROJECT_DIR$/src/div2_359A.java" />
     </list>
     <ignored path="codeforces.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -49,11 +46,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="div2_358A.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="div2_358A.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/div2_358A.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="270">
               <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="div2_360A.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/div2_360A.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -82,6 +89,7 @@
         <option value="$PROJECT_DIR$/src/educational_round_13_A.java" />
         <option value="$PROJECT_DIR$/src/div2_359A.java" />
         <option value="$PROJECT_DIR$/src/div2_358A.java" />
+        <option value="$PROJECT_DIR$/src/div2_360A.java" />
       </list>
     </option>
   </component>
@@ -117,7 +125,7 @@
     </navigator>
     <panes />
   </component>
-  <component name="RunManager" selected="Application.div2_358A">
+  <component name="RunManager" selected="Application.div2_360A">
     <configuration default="false" name="educational_round_13_A" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="educational_round_13_A" />
@@ -151,6 +159,21 @@
     <configuration default="false" name="div2_358A" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="div2_358A" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="codeforces" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="div2_360A" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="div2_360A" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -397,16 +420,18 @@
       <listeners />
       <method />
     </configuration>
-    <list size="3">
+    <list size="4">
       <item index="0" class="java.lang.String" itemvalue="Application.educational_round_13_A" />
       <item index="1" class="java.lang.String" itemvalue="Application.div2_359A" />
       <item index="2" class="java.lang.String" itemvalue="Application.div2_358A" />
+      <item index="3" class="java.lang.String" itemvalue="Application.div2_360A" />
     </list>
     <recent_temporary>
-      <list size="3">
-        <item index="0" class="java.lang.String" itemvalue="Application.div2_358A" />
-        <item index="1" class="java.lang.String" itemvalue="Application.div2_359A" />
-        <item index="2" class="java.lang.String" itemvalue="Application.educational_round_13_A" />
+      <list size="4">
+        <item index="0" class="java.lang.String" itemvalue="Application.div2_360A" />
+        <item index="1" class="java.lang.String" itemvalue="Application.div2_358A" />
+        <item index="2" class="java.lang.String" itemvalue="Application.div2_359A" />
+        <item index="3" class="java.lang.String" itemvalue="Application.educational_round_13_A" />
       </list>
     </recent_temporary>
   </component>
@@ -438,7 +463,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="WINDOWED" visible="false" show_stripe_button="true" weight="0.62481314" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" x="513" y="186" width="500" height="446" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="WINDOWED" visible="false" show_stripe_button="true" weight="0.6696562" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" x="519" y="172" width="510" height="476" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -486,6 +511,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/div2_359A.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/div2_358A.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
@@ -502,8 +535,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/div2_359A.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -512,6 +545,30 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/div2_359A.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/educational_round_13_A.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/div2_360A.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
           <folding />
         </state>
       </provider>
